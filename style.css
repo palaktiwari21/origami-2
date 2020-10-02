@@ -1,0 +1,21 @@
+
+h1{color:blue;}
+h3{color:red;}
+h1{
+    background-color:yellow;
+}
+
+body{
+    background-color:blueviolet;
+}
+.design {
+    display:flex;
+    flex-direction:row-reverse;
+    justify-content: space-evenly;
+    
+}
+
+.item {
+    background-color:pink;
+    
+}
